@@ -19,7 +19,7 @@ What I Do
 - Internal audit and control procedures  
 - Process documentation and risk analysis  
 - QA automation with Python  
-- Tools: JIRA, Postman, PostgreSQL, Android Studio, Cygwin64
+- Tools: PyCharm, Git, Selenium Webdriver, JIRA, Postman, PostgreSQL, Android Studio, Cygwin64
 
 Languages
 ---------
